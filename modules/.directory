@@ -1,0 +1,7 @@
+[Dolphin]
+Timestamp=2019,10,24,7,51,5
+Version=4
+VisibleRoles=Icons_text,Icons_size,Icons_imageSize,Icons_duration
+
+[Settings]
+HiddenFilesShown=true
