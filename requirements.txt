@@ -11,4 +11,3 @@ seaborn==0.9.0
 tqdm==4.31.1
 tables==3.5.2
 joblib==0.13.2
-tslearn==0.2.2
