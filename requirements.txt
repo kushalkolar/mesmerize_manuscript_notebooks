@@ -11,3 +11,7 @@ seaborn==0.9.0
 tqdm==4.31.1
 tables==3.5.2
 joblib==0.13.2
+pomegranate==0.11.2
+ipywidgets==7.5.1
+graphviz
+
