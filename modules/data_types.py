@@ -23,8 +23,8 @@ from itertools import chain
 import os
 import traceback
 from configparser import RawConfigParser
-from .utils import HdfTools
 from tqdm import tqdm
+from.utils import HdfTools
 
 
 class _HistoryTraceExceptions(Exception):
