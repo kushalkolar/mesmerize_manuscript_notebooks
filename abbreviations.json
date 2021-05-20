@@ -1,0 +1,23 @@
+{
+    "cesa-pos": "CESA positive",
+    "hnk1-pos": "HNK-1 positive",
+    "ependymal": "ependymal",
+    "palp": "Pap",
+    "rten": "RTEN",
+    "atena": "aATEN",
+    "atenp": "pATEN",
+    "eminens": "Em",
+    "pr": "photoreceptor (any)",
+    "pr_rn": "prRN",
+    "pr_amg": "pr-AMG",
+    "pnin": "PNIN",
+    "antenal_relay": "antRN",
+    "vac_in": "vacIN",
+    "pr_tract_interneuron": "trIN",
+    "pbv_pnin": "PBV PNIN",
+    "cor_ass_bvin": "cor-ass BVIN",
+    "dcen": "DCEN", 
+    "amg": "AMG",
+    "ddn": "ddN",
+    "mn": "motor neuron (any)"
+}
